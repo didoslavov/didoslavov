@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @didkoslawow
+- 👋 Hi, I’m Dido!
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning programing basics and javascript
 - 💞️ I’m looking to collaborate on javascript code
