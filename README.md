@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm Dido.</h2>
-<h3 align="center" ><a href="https://portfolio-deyan-slavov-s-projects.vercel.app/">My personal portfolio</a></h3>
+<h3 align="center" ><a href="https://didoslavov.dev/">didoslavov.dev</a></h3>
 
 ###
 
